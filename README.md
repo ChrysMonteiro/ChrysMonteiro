@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá!!! 👋
+
+Certificada CTFL e CTFL-AT. Atuo na área trabalhando com o que mais gosto, como analista de qualidade e teste de software. Tenho alguns anos de experiência em homologação de sistemas, testes funcionais, teste de regressão. Graduada em Tecnologia da Informação.
+
 
 <!--
 **ChrysMonteiro/ChrysMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
